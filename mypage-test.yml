@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://211.34.229.173:3306/doctorforuDB?serverTimezone=Asia/Seoul
+    username: mysql
+    password: Doctor119!
+
+EasyResponse:
+  service:
+    url: http://127.0.0.1:8080
+
+api:
+  access:
+    token: eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJEb2N0b3JGb3JVIiwiYXV0aCI6IlJPTEVfVVNFUiIsImV4cCI6MTcxODM1MTgyMH0.FKtwQzlYsTwBKv-i4d3Ko26NLvH8gtmu2kSRrPhs2McUT_Rqk6Ot1K4wnJ6ztxav3flJDrzKD97KBRXWS7b3Yw
