@@ -1,7 +1,7 @@
 spring:
   datasource:
-    url: jdbc:mysql://211.34.229.173:3306/doctorforuDB?serverTimezone=Asia/Seoul
-    username: mysql
+    url: jdbc:mysql://mysql-container:3306/doctorforuDB
+    username: root
     password: Doctor119!
 
 EasyResponse:
