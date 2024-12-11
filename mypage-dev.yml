@@ -6,7 +6,7 @@ spring:
 
 EasyResponse:
   service:
-    url: http://eureka-container:8761
+    url: http://config-container:8888
 
 api:
   access:
