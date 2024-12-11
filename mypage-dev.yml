@@ -6,7 +6,7 @@ spring:
 
 EasyResponse:
   service:
-    url: http://config-container:8888
+    url: http://172.18.0.9:8888
 
 api:
   access:
