@@ -10,3 +10,6 @@ spring:
 
 jwt:
   secret: YWJjZGVmZ2hpamtsbW5vcHFyc3R1dnd6eXoxMjMxMjMxMjMxMjMxMjMxMzEyMzEyMzEzMTIzMTIzMTIzMTMxMjMxMzEzMTMxMjM
+  redis:
+    host: easycluster.rxybdx.ng.0001.apn2.cache.amazonaws.com
+    port: 6379
